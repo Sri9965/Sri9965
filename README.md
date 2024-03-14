@@ -4,7 +4,7 @@
 
 👨‍💻 All of my projects are available at github.com/Sri9965
 
-💬 Ask me about java,c,c++,Python,DSA
+💬 Ask me about java,c,c++,Python.
 
 📫 How to reach me msvsri632@gmail.com
 

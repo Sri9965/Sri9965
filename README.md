@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Machine Learning.
 
-👨‍💻 All of my projects are available at github.com/Sri9965
+👨‍💻 All of my projects are available at  github.com/Sri9965
 
 💬 Ask me about java,c,c++,Python.
 
